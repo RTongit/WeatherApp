@@ -13,7 +13,7 @@ This is a simple Weather App that allows users to search for a city and view its
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/weather-app.git](https://github.com/RTongit/WeatherApp.git
+git clone https://github.com/RTongit/WeatherApp.git
    ```
 2. Navigate to the project directory:
    ```sh
