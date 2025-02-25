@@ -42,10 +42,10 @@ async function getWeather() {
             weatherIcon.src = "/WeatherApp/img/drizzle.png"
         }
         else if (data.weather[0].main == "Mist") {
-            weatherIcon.src = "WeatherApp/img/mist.png"
+            weatherIcon.src = "/WeatherApp/img/mist.png"
         }
         else if (data.weather[0].main == "Rain") {
-            weatherIcon.src = "WeatherApp/img/rain.png"
+            weatherIcon.src = "/WeatherApp/img/rain.png"
         }
         console.log(data);
     }
