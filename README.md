@@ -17,7 +17,7 @@ This is a simple Weather App that allows users to search for a city and view its
    ```
 2. Navigate to the project directory:
    ```sh
-   cd weather-app
+   cd WeatherApp
    ```
 3. Open `index.html` in a web browser.
 
