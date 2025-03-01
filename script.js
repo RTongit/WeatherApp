@@ -33,19 +33,19 @@ async function getWeather() {
         // For changing weather icon according to weather condition
 
         if (data.weather[0].main == "Clear") {
-            weatherIcon.src = "/WeatherApp/img/clear.png"
+            weatherIcon.src = "/img/clear.png"
         }
         else if (data.weather[0].main == "Clouds") {
-            weatherIcon.src = "/WeatherApp/img/clouds.png"
+            weatherIcon.src = "/img/clouds.png"
         }
         else if (data.weather[0].main == "Drizzle") {
-            weatherIcon.src = "/WeatherApp/img/drizzle.png"
+            weatherIcon.src = "/img/drizzle.png"
         }
         else if (data.weather[0].main == "Mist") {
-            weatherIcon.src = "/WeatherApp/img/mist.png"
+            weatherIcon.src = "/img/mist.png"
         }
         else if (data.weather[0].main == "Rain") {
-            weatherIcon.src = "/WeatherApp/img/rain.png"
+            weatherIcon.src = "/img/rain.png"
         }
         console.log(data);
     }
