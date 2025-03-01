@@ -11,7 +11,8 @@ This is a simple Weather App that allows users to search for a city and view its
 - Dynamically updates weather icons based on conditions
 
 ## Installation
-1. Clone the repository:
+1. Create a folder.Open it with terminal
+2. Copy and paste the below link inside terminal (Cloning repository):
    ```sh
    git clone https://github.com/RTongit/WeatherApp.git
    ```
